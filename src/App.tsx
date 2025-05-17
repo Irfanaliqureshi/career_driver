@@ -51,3 +51,5 @@ element={isAuthenticated() ? <AdminPage /> : <Navigate to="/login" />}
 </ThemeProvider>
 );
 };
+export default App;
+
